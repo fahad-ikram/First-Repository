@@ -95,8 +95,8 @@ This script can be executed in any Python environment. Simply copy and paste the
 
 ```\
 Before swapping:
-a = 5
-b = 10
+a :-> 5
+b :-> 10
 After swapping:
-a = 10
-b = 5
+a :-> 10
+b :-> 5
