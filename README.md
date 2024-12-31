@@ -21,17 +21,15 @@ Here, `a` is assigned the value `5`, and `b` is assigned the value `10`.
 The original values of `a` and `b` are displayed using:
 
 ```python
-print("Before swapping:")
-print("a =", a)
-print("b =", b)
+print(f"Before swapping:\na :-> {a}\nb :-> {b}")
 ```
 
 Output:
 
 ```\
 Before swapping:
-a = 5
-b = 10
+a :-> 5
+b :-> 10
 ```
 
 ### Swapping Logic
@@ -73,17 +71,15 @@ The swapping is performed in three steps using arithmetic operations:
 Finally, the swapped values of `a` and `b` are displayed:
 
 ```python
-print("After swapping:")
-print("a =", a)
-print("b =", b)
+print(f"After swapping:\na :-> {a}\nb :-> {b}")
 ```
 
 Output:
 
 ```\
 After swapping:
-a = 10
-b = 5
+a :-> 10
+b :-> 5
 ```
 
 ## Key Advantages
