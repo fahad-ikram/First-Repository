@@ -1,4 +1,4 @@
-# Swap Two Variables Using Arithmetic Operations
+# Swap Values Using Only Two Variables
 
 This repository demonstrates a simple Python script to swap the values of two variables without using a temporary variable. The script utilizes basic arithmetic operations (addition and subtraction) to achieve the swapping.
 
